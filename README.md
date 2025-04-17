@@ -2,7 +2,7 @@
 
 This project implements **KMeans clustering** in three versions:  
 🟢 Serial (C), 🟡 OpenMP (multi-threaded CPU), 🔵 CUDA (GPU).  
-Designed for **high-performance computing coursework (CSCI 5451 @ UMN)** and extended for benchmarking and visualization.
+Designed for **high-performance computing** and extended for benchmarking and visualization.
 
 ---
 
