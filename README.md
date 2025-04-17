@@ -26,7 +26,7 @@ Each implementation:
 ## 📁 Repository Structure
 
 ```
-kmeans-parallel/
+parallel-kmeans-clustering/
 ├── kmeans_serial.c           # Serial version
 ├── kmeans_omp.c              # OpenMP version
 ├── kmeans_cuda.cu            # CUDA version
