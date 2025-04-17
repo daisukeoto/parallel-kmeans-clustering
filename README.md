@@ -37,6 +37,8 @@ parallel-kmeans-clustering/
 │   └── kmeans-cuda-time.sh
 ├── results/                  # Sample output (txt/pgm)
 ├── test/                     # Org-mode test runs
+├── writeup/
+│   └── A3-WRITEUP.txt
 ├── mnist-data/               # Data files or download instructions
 ├── kmeans.py                 # Optional Python reference implementation
 └── README.md
@@ -119,6 +121,14 @@ Each line of the dataset:
 You may generate your own data using MNIST or use sample files like:
 - `digits_all_5e3.txt`
 - `digits_all_1e4.txt`
+
+---
+
+## 📄 Write-up & Benchmarks
+
+You can find the performance discussion, timing tables, and CUDA design breakdown in:
+
+📁 [`writeup/A3-WRITEUP.txt`](writeup/A3-WRITEUP.txt)
 
 ---
 
