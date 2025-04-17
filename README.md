@@ -21,8 +21,6 @@ Each implementation:
 - Tracks convergence via assignment changes
 - Outputs cluster center images (`.pgm`) and a confusion matrix
 
-This project was originally based on [Assignment 3 of UMN CSCI 5451](https://www-users.cse.umn.edu/~kauffman/5451/a3.html), which specified the core algorithm and dataset format.
-
 ---
 
 ## 📁 Repository Structure
@@ -136,5 +134,5 @@ You may generate your own data using MNIST or use sample files like:
 
 ## 📎 Contact
 
-Made with ❤️ by [Your Name](https://your-portfolio.com)  
+Made by Daisuke Oto  
 Inspired by [CSCI 5451: High Performance Computing](https://www-users.cse.umn.edu/~kauffman/5451/)
