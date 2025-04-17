@@ -38,7 +38,7 @@ parallel-kmeans-clustering/
 ├── results/                  # Sample output (txt/pgm)
 ├── test/                     # Org-mode test runs
 ├── writeup/
-│   └── A3-WRITEUP.txt
+│   └── WRITEUP.txt           # Result analysis
 ├── mnist-data/               # Data files or download instructions
 ├── kmeans.py                 # Optional Python reference implementation
 └── README.md
